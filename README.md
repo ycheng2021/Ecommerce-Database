@@ -40,6 +40,6 @@ This application does not have a license.
 ## Questions
 Github link: https://github.com/ycheng2021/Ecommerce-Database
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1zmXGqrUneCdTKVHBPB8UOb-opn0hsKdU/view
 
 If you have any additional questions, feel free to reach me at annacheng09@hotmail.com
